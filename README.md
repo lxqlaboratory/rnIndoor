@@ -1,2 +1,2 @@
 # rnIndoor
-Indoor for ReactNative
+IndoorLocation for ReactNative
