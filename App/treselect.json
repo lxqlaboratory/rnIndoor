@@ -1,0 +1,102 @@
+[
+    {
+        "id":"A",
+        "name":"根节点",
+        "sortNo":"A",
+        "parentId":"0",
+        "children": [
+            {
+                "id":"A01",
+                "name":"TAG",
+                "sortNo":"A01",
+                "parentId":"A",
+                "children": [
+                    {
+                        "id":"A011",
+                        "name":"2504",
+                        "sortNo":"A011",
+                        "parentId":"A01",
+                        "latitude":36.693125,
+                        "longitude":117.200185,
+                    },
+                    {
+                        "id":"A012",
+                        "name":"2521",
+                        "sortNo":"A012",
+                        "parentId":"A01",
+                        "latitude":36.676507,
+                        "longitude":117.225498
+                    },
+                    {
+                        "id":"A013",
+                        "name":"1000402598",
+                        "sortNo":"A013",
+                        "parentId":"A01",
+                        "latitude":36.676507,
+                        "longitude":117.225498
+                    }
+                ]
+            },
+
+            {
+                "id":"A02",
+                "name":"SZTG",
+                "sortNo":"A02",
+                "parentId":"A",
+                "children": [
+                {
+                    "id":"A021",
+                    "name":"22354",
+                    "sortNo":"A021",
+                    "parentId":"A02",
+                    "latitude":36.676507,
+                    "longitude":117.225498
+                },
+                {
+                        "id":"A022",
+                        "name":"22468",
+                        "sortNo":"A022",
+                        "parentId":"A02",
+                        "latitude":36.676507,
+                        "longitude":117.225498
+                }
+                ]
+            },
+
+            {
+                "id":"A03",
+                "name":"手环",
+                "sortNo":"A03",
+                "parentId":"A",
+                "children": [
+                    {
+                        "id":"A031",
+                        "name":"橙色手环",
+                        "sortNo":"A031",
+                        "parentId":"A03",
+                        "latitude":36.676507,
+                        "longitude":117.225498
+                    },
+                    {
+                        "id":"A032",
+                        "name":"红色手环",
+                        "sortNo":"A032",
+                        "parentId":"A03",
+                        "latitude":36.676507,
+                        "longitude":117.225498
+                    },
+                    {
+                        "id":"A033",
+                        "name":"演示手环",
+                        "sortNo":"A033",
+                        "parentId":"A03",
+                        "latitude":36.676507,
+                        "longitude":117.225498
+                    }
+                ]
+            }
+
+        ]
+    },
+
+]
